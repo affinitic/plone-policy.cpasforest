@@ -1,0 +1,28 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:five="http://namespaces.zope.org/five"
+    xmlns:i18n="http://namespaces.zope.org/i18n"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    i18n_domain="policy.cpasforest">
+
+    <genericsetup:registerProfile
+        name="default"
+        title="policy.cpasforest"
+        directory="profiles/default"
+        description="Installs the policy.cpasforest package"
+        provides="Products.GenericSetup.interfaces.EXTENSION"
+        />
+
+    <include package="collective.ckeditor" />
+    <include package="collective.easyslider" />
+    <include package="Solgema.fullcalendar" />
+    <include package="collective.collage.maps" />
+    <include package="collective.collage.easyslider" />
+    <include package="collective.gallery" />
+    <include package="quintagroup.analytics" />
+    <include package="collective.recaptcha" />
+    <include package="qi.portlet.TagClouds" />
+    <include package="plonetheme.cpasforest" />
+  
+  
+</configure>

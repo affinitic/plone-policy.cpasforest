@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<metadata>
+  <version>1000</version>
+     <dependencies>
+        <dependency>profile-Products.LinguaPlone:LinguaPlone</dependency>
+        <dependency>profile-Products.Collage:default</dependency>
+        <dependency>profile-collective.ckeditor:default</dependency>
+        <dependency>profile-collective.easyslider:default</dependency>
+        <dependency>profile-Solgema.fullcalendar:default</dependency>
+        <dependency>profile-collective.gallery:default</dependency>
+        <dependency>profile-quintagroup.analytics:QAnalytics</dependency>
+        <dependency>profile-qi.portlet.TagClouds:default</dependency>
+        <dependency>profile-plonetheme.cpasforest:default</dependency>
+      </dependencies>
+</metadata>
