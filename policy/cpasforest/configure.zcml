@@ -22,6 +22,7 @@
     <include package="quintagroup.analytics" />
     <include package="collective.recaptcha" />
     <include package="qi.portlet.TagClouds" />
+    <include package="Products.PloneFormGen" />
     <include package="plonetheme.cpasforest" />
   
   

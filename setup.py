@@ -34,6 +34,7 @@ setup(name='policy.cpasforest',
           'quintagroup.analytics',
           'collective.recaptcha',
           'qi.portlet.TagClouds',
+	  'Products.PloneFormGen',
           'plonetheme.cpasforest'
       ],
       entry_points="""

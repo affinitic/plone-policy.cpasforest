@@ -10,6 +10,7 @@
         <dependency>profile-collective.gallery:default</dependency>
         <dependency>profile-quintagroup.analytics:QAnalytics</dependency>
         <dependency>profile-qi.portlet.TagClouds:default</dependency>
+        <dependency>profile-Products.PloneFormGen:default</dependency>
         <dependency>profile-plonetheme.cpasforest:default</dependency>
       </dependencies>
 </metadata>
