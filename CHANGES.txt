@@ -4,7 +4,9 @@ Changelog
 1.1.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add collective.anysurfer.
+- Add collective.portlet.videoanysurfer.
+- Add collective.videoanysurfer
 
 
 1.1.1 (2012-11-22)

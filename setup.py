@@ -35,6 +35,9 @@ setup(name='policy.cpasforest',
           'collective.recaptcha',
           'qi.portlet.TagClouds',
 	  'Products.PloneFormGen',
+          'collective.anysurfer',
+          'collective.portlet.videoanysurfer',
+          'collective.videoanysurfer',
           'plonetheme.cpasforest'
       ],
       entry_points="""

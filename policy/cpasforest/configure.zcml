@@ -23,6 +23,9 @@
     <include package="collective.recaptcha" />
     <include package="qi.portlet.TagClouds" />
     <include package="Products.PloneFormGen" />
+    <include package="collective.portlet.videoanysurfer" />
+    <include package="collective.videoanysurfer" />
+    <include package="collective.anysurfer" />
     <include package="plonetheme.cpasforest" />
   
   
