@@ -38,6 +38,7 @@ setup(name='policy.cpasforest',
           'collective.anysurfer',
           'collective.portlet.videoanysurfer',
           'collective.videoanysurfer',
+          'collective.checktranslated',
           'plonetheme.cpasforest'
       ],
       entry_points="""
